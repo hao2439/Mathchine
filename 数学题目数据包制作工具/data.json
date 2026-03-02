@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "linear_1",
+    "category": "线性代数",
+    "question": "已知矩阵 $A = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$，求其行列式 $|A|$。",
+    "options": "[\"-2\", \"2\", \"0\", \"10\"]",
+    "correct_option_index": 0,
+    "explanation": "$|A| = 1 \\times 4 - 2 \\times 3 = 4 - 6 = -2$"
+  },
+  {
+    "uuid": "asmd_1",
+    "category": "四则运算",
+    "question": "$1 + 1 = ?$",
+    "options": "[\"1\", \"2\", \"3\", \"4\"]",
+    "correct_option_index": 1,
+    "explanation": "$1 + 1 = 2$"
+  },
+  {
+    "uuid": "derivative_1",
+    "category": "导数",
+    "question": "求函数 $f(x) = x^2$ 的导数 $f'(x)$。",
+    "options": "[\"$x$\", \"$2x$\", \"$x^2$\", \"$2$\"]",
+    "correct_option_index": 1,
+    "explanation": "$f'(x) = 2x^{2-1} = 2x$"
+  }
+]
